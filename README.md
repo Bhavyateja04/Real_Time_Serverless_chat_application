@@ -49,7 +49,7 @@ The objective of this project is to build a **real-time messaging application us
               │              │              │
               ▼              ▼              ▼
         ┌──────────┐   ┌──────────┐   ┌──────────┐
-        │ $connect │   │sendMessage│  │$disconnect│
+        │ $to connect │   │sendMessage│  │$disconnect│
         │  Lambda  │   │  Lambda   │  │  Lambda  │
         └────┬─────┘   └─────┬─────┘  └────┬─────┘
              │               │              │
