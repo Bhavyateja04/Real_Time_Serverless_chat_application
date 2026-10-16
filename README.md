@@ -15,7 +15,7 @@ The Real-Time Serverless Chat Application demonstrates how AWS serverless techno
 - Optimize costs using pay-per-use services.
 - Secure interactions between AWS services using IAM.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack used
 
 | Technology | Purpose |
 |---|---|
